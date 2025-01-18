@@ -590,7 +590,12 @@ date: 2019-02-01 20:03:41
   "title": "安和",
   "link": "http://nekocoffee.com/",
   "img": "https://avatar.mixcm.com/github/AHCorn"
- }
+ },
+ {
+"title": "夜轻Blog",
+"link": "https://blog.180280.xyz",
+"img": "https://blog.180280.xyz/usr/uploads/favicon.jpg"
+}
 ]
 
 {% endlinks %}
